@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\NetworkProgramming\XOTaskServerSide\bin\Debug\net8.0\XOTaskServerSide.exe
+C:\Users\DELL\Desktop\NetworkProgramming\XOTaskServerSide\bin\Debug\net8.0\XOTaskServerSide.deps.json
+C:\Users\DELL\Desktop\NetworkProgramming\XOTaskServerSide\bin\Debug\net8.0\XOTaskServerSide.runtimeconfig.json
+C:\Users\DELL\Desktop\NetworkProgramming\XOTaskServerSide\bin\Debug\net8.0\XOTaskServerSide.dll
+C:\Users\DELL\Desktop\NetworkProgramming\XOTaskServerSide\bin\Debug\net8.0\XOTaskServerSide.pdb
+C:\Users\DELL\Desktop\NetworkProgramming\XOTaskServerSide\obj\Debug\net8.0\XOTaskServerSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\NetworkProgramming\XOTaskServerSide\obj\Debug\net8.0\XOTaskServerSide.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\NetworkProgramming\XOTaskServerSide\obj\Debug\net8.0\XOTaskServerSide.AssemblyInfo.cs
+C:\Users\DELL\Desktop\NetworkProgramming\XOTaskServerSide\obj\Debug\net8.0\XOTaskServerSide.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\NetworkProgramming\XOTaskServerSide\obj\Debug\net8.0\XOTaskServerSide.sourcelink.json
+C:\Users\DELL\Desktop\NetworkProgramming\XOTaskServerSide\obj\Debug\net8.0\XOTaskServerSide.dll
+C:\Users\DELL\Desktop\NetworkProgramming\XOTaskServerSide\obj\Debug\net8.0\refint\XOTaskServerSide.dll
+C:\Users\DELL\Desktop\NetworkProgramming\XOTaskServerSide\obj\Debug\net8.0\XOTaskServerSide.pdb
+C:\Users\DELL\Desktop\NetworkProgramming\XOTaskServerSide\obj\Debug\net8.0\XOTaskServerSide.genruntimeconfig.cache
+C:\Users\DELL\Desktop\NetworkProgramming\XOTaskServerSide\obj\Debug\net8.0\ref\XOTaskServerSide.dll
